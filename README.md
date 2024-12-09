@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Tudor 👋
 
-<!--
-**tudorsonycx/tudorsonycx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate Junior Software Developer who loves building innovative solutions and continuously learning new technologies. Currently, I am looking for exciting job opportunities in Software Development.
+
+- 🌱 I’m currently learning Full-Stack Development.
+- 📫 How to reach me: tudorsonycx@gmail.com
+- ⚡ Fun fact: I love working out.
+
+## Skills
+
+- **Languages:** Python, JavaScript, HTML, CSS, C
+- **Frameworks:** Flask
+- **Tools:** Pandas, Pytest
+- **Databases:** PostgreSQL
+- **Other:** AWS, Terraform, CI/CD, TDD
