@@ -1,6 +1,6 @@
 # Hi there, I'm Tudor 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=tudorsonycx&color=blue)
 
 ## About Me
 
