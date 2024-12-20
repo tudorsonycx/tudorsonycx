@@ -8,11 +8,12 @@ I am a passionate Junior Software Developer who loves building innovative soluti
 
 - 🌱 I’m currently learning Back-End Development with Django.
 - 📫 How to reach me: tudorsonycx@gmail.com
-- ⚡ Fun fact: I love working out.
+- ⚡ Fun fact: I love working out. And gaming!
 
 ## Skills
 
 - **Languages:** Python, JavaScript, HTML, CSS, C
+- **Core concepts:** Data strucures and Algorithms, Object-oriented Programming
 - **Frameworks:** Flask
 - **Tools:** Pandas, Pytest
 - **Databases:** PostgreSQL
