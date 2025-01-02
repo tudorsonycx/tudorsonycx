@@ -13,7 +13,7 @@ I am a passionate Junior Software Developer who loves building innovative soluti
 ## Skills
 
 - **Languages:** Python, JavaScript, HTML, CSS, C
-- **Core concepts:** Data strucures and Algorithms, Object-oriented Programming
+- **Core concepts:** Data structures and Algorithms, Object-oriented Programming
 - **Frameworks:** Flask
 - **Tools:** Pandas, Pytest
 - **Databases:** PostgreSQL
