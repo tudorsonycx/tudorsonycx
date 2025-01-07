@@ -14,7 +14,7 @@ I am a passionate Junior Software Developer who loves building innovative soluti
 
 - **Languages:** Python, JavaScript, HTML, CSS, C
 - **Core concepts:** Data structures and Algorithms, Object-oriented Programming
-- **Frameworks:** Flask
+- **Frameworks:** FastAPI, Flask
 - **Tools:** Pandas, Pytest
 - **Databases:** PostgreSQL
 - **Other:** AWS, Terraform, CI/CD, TDD
